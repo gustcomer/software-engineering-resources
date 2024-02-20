@@ -26,3 +26,4 @@ A curated list of blogs, newsletters, people and any resources for Software Engi
 
 ## Other Resources
 - [Databases.biz](https://databases.biz/data-models/) - Collection of very useful database models.
+- [saas-boilerplate](https://github.com/apptension/saas-boilerplate) - Open Source SaaS stack based in React, Django and AWS.
