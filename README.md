@@ -17,6 +17,8 @@ A curated list of blogs, newsletters, people and any resources for Software Engi
 
 - [Uncle Bob](http://cleancoder.com/products) - Website with blog, Talks, Articles and much more.
 - [Marting Fowler](https://martinfowler.com/) - Series of articles.
+- [Adam Dymitruk](https://eventmodeling.org/) - Evangelist of Event Modeling.
+- [Alberto Brandolini](https://www.eventstorming.com/) - Evangelist of Event Storming.
 
 ## Youtube
 
