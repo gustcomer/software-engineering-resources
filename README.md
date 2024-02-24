@@ -15,12 +15,12 @@ A curated list of blogs, newsletters, people and any resources for Software Engi
 
 ## People
 
-- [Uncle Bob](http://cleancoder.com/products) - Website with blog, Talks, Articles and much more.
+- [Uncle Bob - Robert Martin](http://cleancoder.com/products) - Website with blog, Talks, Articles and much more.
 - [Marting Fowler](https://martinfowler.com/) - Series of articles.
 - [Adam Dymitruk](https://eventmodeling.org/) - Evangelist of Event Modeling.
 - [Alberto Brandolini](https://www.eventstorming.com/) - Evangelist of Event Storming.
 - [Khalil Stemmler](https://khalilstemmler.com/) - Software Engineer.
-- [Greg Young]() - CQRS and Event Modeling.
+- [Greg Young]() - [CQRS and Event Modeling](https://www.eventstore.com/blog/transcript-of-greg-youngs-talk-at-code-on-the-beach-2014-cqrs-and-event-sourcing).
 - [Alistair Cockburn](https://alistair.cockburn.us/hexagonal-architecture/) - Creator of [Hexagonal Architecture](https://hexagonalarchitecture.org/).
 
 ## Youtube
