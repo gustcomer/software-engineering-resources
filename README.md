@@ -21,7 +21,7 @@ A curated list of blogs, newsletters, people and any resources for Software Engi
 - [Alberto Brandolini](https://www.eventstorming.com/) - Evangelist of Event Storming.
 - [Khalil Stemmler](https://khalilstemmler.com/) - Software Engineer.
 - [Greg Young]() - CQRS and Event Modeling.
-- [Alistair Cockburn](https://alistair.cockburn.us/hexagonal-architecture/) - Creator of Hexagonal Architecture.
+- [Alistair Cockburn](https://alistair.cockburn.us/hexagonal-architecture/) - Creator of [Hexagonal Architecture](https://hexagonalarchitecture.org/).
 
 ## Youtube
 
