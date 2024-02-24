@@ -19,6 +19,7 @@ A curated list of blogs, newsletters, people and any resources for Software Engi
 - [Marting Fowler](https://martinfowler.com/) - Series of articles.
 - [Adam Dymitruk](https://eventmodeling.org/) - Evangelist of Event Modeling.
 - [Alberto Brandolini](https://www.eventstorming.com/) - Evangelist of Event Storming.
+- [Khalil Stemmler](https://khalilstemmler.com/) - Software Engineer.
 
 ## Youtube
 
