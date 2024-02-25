@@ -24,6 +24,8 @@ A curated list of blogs, newsletters, people and any resources for Software Engi
 - [Khalil Stemmler](https://khalilstemmler.com/) - Software Engineer.
 - [Greg Young]() - [CQRS and Event Modeling](https://www.eventstore.com/blog/transcript-of-greg-youngs-talk-at-code-on-the-beach-2014-cqrs-and-event-sourcing).
 - [Alistair Cockburn](https://alistair.cockburn.us/hexagonal-architecture/) - Creator of [Hexagonal Architecture](https://hexagonalarchitecture.org/).
+- [Milan Milanović](https://milan.milanovic.org/) - [Tech World With Milan Newsletter](https://newsletter.techworld-with-milan.com/)
+- [Milan Jovanović](https://www.milanjovanovic.tech/) - Writes the .NET weekly.
 
 ## Youtube
 
