@@ -44,6 +44,7 @@ A curated list of blogs, newsletters, people and any resources for Software Engi
 - [GOTO Conferences](https://www.youtube.com/@GOTO-)
 - [Event-Driven Information Systems](https://www.youtube.com/@eventmodeling/videos)
 - [Explore DDD](https://www.youtube.com/@ExploreDDD)
+- [AWS Events](https://www.youtube.com/@AWSEventsChannel)
 
 ## Other Resources
 - [Databases.biz](https://databases.biz/data-models/) - Collection of very useful database models.
