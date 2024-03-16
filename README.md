@@ -8,6 +8,7 @@ A curated list of blogs, newsletters, people and any resources for Software Engi
   - [People](#people)
   - [Youtube](#youtube)
   - [Articles, Blog Posts, Interviews, etc](#articles-blog-posts-interviews-etc)
+  - [Conferences](#conferences)
   - [Other Resources](#other-resources)
 
 ## Blogs
@@ -36,6 +37,13 @@ A curated list of blogs, newsletters, people and any resources for Software Engi
 ## Articles, Blog Posts, Interviews, etc
 
 - Transcript of Greg Young's Talk at Code on the Beach 2014: CQRS and Event Sourcing. [-](https://www.eventstore.com/blog/transcript-of-greg-youngs-talk-at-code-on-the-beach-2014-cqrs-and-event-sourcing)
+
+## Conferences
+
+- [Domain-Driven Design Europe](https://www.youtube.com/@ddd_eu)
+- [GOTO Conferences](https://www.youtube.com/@GOTO-)
+- [Event-Driven Information Systems](https://www.youtube.com/@eventmodeling/videos)
+- [Explore DDD](https://www.youtube.com/@ExploreDDD)
 
 ## Other Resources
 - [Databases.biz](https://databases.biz/data-models/) - Collection of very useful database models.
