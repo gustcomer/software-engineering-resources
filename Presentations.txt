@@ -1,4 +1,22 @@
 ################################################################################
+title: Building Evolutionary Architectures
+author: Neal Ford - works at ThoughtWorks
+conference: YOW! 2018
+url: https://www.youtube.com/watch?v=DloJCWdB7_o&t=1644s
+references:
+  Ford, Parsons, Kua & Sadalage • Building Evolutionary Architectures 2nd Edition • https://amzn.to/3lqr5Q8
+  Ford, Richards, Sadalage & Dehghani • Software Architecture: The Hard Parts • https://amzn.to/3QeMgjR
+  Mark Richards & Neal Ford • Fundamentals of Software Architecture • https://amzn.to/3wMBhoI
+  Ford, Parsons & Kua • Building Evolutionary Architectures • https://amzn.to/3l0IOh2
+  Neal Ford • Functional Thinking • https://amzn.to/3l6ND8M
+  Michael Feathers • Working Effectively with Legacy Code • https://amzn.to/3ZFQoMU
+  Christian Clausen • Five Lines of Code • https://amzn.to/3s2zjyg
+key takeaways:
+  - evolutionary is related to genetic algorithms.
+  - the key to evolutionary are fitness functions.
+rate: 7
+
+################################################################################
 title: Design 101 for Programmers
 author: James White
 conference: YOW! 2016
