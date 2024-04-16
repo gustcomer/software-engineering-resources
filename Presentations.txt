@@ -1,0 +1,14 @@
+################################################################################
+title: Design 101 for Programmers
+author: James White
+conference: YOW! 2016
+url: https://www.youtube.com/watch?v=xVUV6L2IxvI&t=563s
+references:
+  Kevlin Henney • 97 Things Every Programmer Should Know • https://amzn.to/2Yahf9U
+  Henney & Monson-Haefel • 97 Things Every Software Architect Should Know • https://amzn.to/3pZuHsQ
+  Matthew Skelton & Manuel Pais • Team Topologies • http://amzn.to/3sVLyLQ
+  Michael Jackson • Software Requirements and Specifications • https://amzn.to/3ql2T14
+  Geoffrey West • Scale • http://amzn.to/3eKMbpc
+  Donald G. Reinertsen • The Principles of Product Development Flow • https://amzn.to/3hJ2Ye2
+key takeways:
+rate: 7
