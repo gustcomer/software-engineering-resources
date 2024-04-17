@@ -14,6 +14,23 @@ key takeaways:
   - you always aim to reduce the cognitive load so that your team is more efficient
   - you can reduce cognitive load by introducing layers of abstraction
   - when you introduce abstractions, you should choose a new vocabulary and abandon vocabulary of the old model.
+rate: 8
+attention: 7
+################################################################################
+title: A Philosophy of Software Design
+author: John Ousterhout
+conference: Talks at Google - 2018
+url: https://www.youtube.com/watch?v=bmSAYlu0NcY&t=2609
+references:
+  A Philosophy of Software Design - John K. Ousterhout - 2018
+  David Parnas - Papers On Information Hiding - 70s
+key takeaways:
+  - Software Decomposition is one of the main inventions.
+  - Classes should be deep (Parnas article).
+    https://web.archive.org/web/20120223013018/http://www.cs.umd.edu/class/spring2003/cmsc838p/Design/criteria.pdf
+  - Tactical vs Strategic Programming.
+rate: 8
+attention: 7
 ################################################################################
 title: The Rationale for Continuous Delivery
 author: Dave Farley
@@ -28,6 +45,7 @@ key takeaways:
   - you should treat software with scientific method
   - you can organize you cd pipeline and test small increments in the software in less than an hour.
 rate: 8
+attention: 6
 ################################################################################
 title: Building Evolutionary Architectures
 author: Neal Ford - works at ThoughtWorks - Software Architecture, the Hard Parts
@@ -45,6 +63,7 @@ key takeaways:
   - evolutionary is related to genetic algorithms.
   - the key to evolutionary are fitness functions.
 rate: 7
+attention: 6
 ################################################################################
 title: Design 101 for Programmers
 author: James White
@@ -59,3 +78,4 @@ references:
   Donald G. Reinertsen • The Principles of Product Development Flow • https://amzn.to/3hJ2Ye2
 key takeways:
 rate: 7
+attention: 3
