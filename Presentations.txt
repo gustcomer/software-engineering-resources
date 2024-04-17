@@ -1,6 +1,21 @@
 ################################################################################
+title: The Rationale for Continuous Delivery
+author: Dave Farley
+conference: YOW! 2016
+url: https://www.youtube.com/watch?v=exBitmWwJG0&t=1860s
+references:
+  David Farley • Modern Software Engineering • https://amzn.to/3GI468M
+  Dave Farley • Continuous Delivery Pipelines • https://amzn.to/3rjetdi
+  Dave Farley & Jez Humble • Continuous Delivery • https://amzn.to/3ocIHwd
+  Dave Farley & many more • Software Architecture Metrics • https://amzn.to/3M3XqG5
+key takeaways:
+  - you should treat software with scientific method
+  - you can organize you cd pipeline and test small increments in the software in less than an hour.
+rate: 8
+
+################################################################################
 title: Building Evolutionary Architectures
-author: Neal Ford - works at ThoughtWorks
+author: Neal Ford - works at ThoughtWorks - Software Architecture, the Hard Parts
 conference: YOW! 2018
 url: https://www.youtube.com/watch?v=DloJCWdB7_o&t=1644s
 references:
