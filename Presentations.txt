@@ -1,4 +1,36 @@
 ################################################################################
+title: The Lost Art of Software Design
+author: Simon Brown
+conference: YOW! 2019
+url: https://www.youtube.com/watch?v=gNj8I4uSTgc
+references:
+  Simon Brown • Software Architecture for Developers Vol. 2 • https://leanpub.com/visualising-softw...
+  David Farley • Modern Software Engineering • https://amzn.to/3GI468M
+  Dave Farley & Jez Humble • Continuous Delivery • https://amzn.to/3ocIHwd
+  Woods, Erder & Pureur • Continuous Architecture in Practice • https://amzn.to/2QWAmkl
+  George Fairbanks • Just Enough Software Architecture • https://amzn.to/3uZzVo0
+  Design It!
+  Building Evolutionary Architectures - Neal Ford, Rebecca Parsons, Patrick Kua
+key takeaways:
+  - you should do a bit of design at the start of the project and at the start of each sprint.
+  - evolutionary design is the art of doing a bit of design at each iteration.
+  - at the end he's gonna present the C4 model. He do consulting and ask people to draw diagrams.
+  - has a specification of a Financial Risk System.
+  - discusses why people avoid upfront design.
+  - UML is too complicated. Use a whiteboard, the value is in the conversations.
+  - Discusses what kind of questions you should ask before coding.
+  - You should discuss a bit of technology (solution) in your charts.
+  - Architecture: programming languages, technologies, platforms, monolith, microservices, hybrid approach.
+  - C4: a Software System is made of Containers, which contains one or more component, with code elements each.
+  - C4: Context, Containers, Components, Code.
+  - Take a look at software architecture checklist at c4model.com
+  - UML não favorece conversations: why are some boxes red? what does that arrow mean? is that a java application?
+  - C4 favorece conversation: why mongoDB? what protocol the two java applications communicate? why SQL if we always use oracle?
+  - note that expliciting the technologies aids the conversation.
+  - use Architecture Decision Records: Title, Context, Decision, Status, Consequences.
+rate: 9
+attention: 8 (stopped at 40:24)
+################################################################################
 title: Build Abstractions Not Illusions
 author: Gregor Hohpe
 conference: YOW! 2023
