@@ -11,6 +11,9 @@ references:
   George Fairbanks • Just Enough Software Architecture • https://amzn.to/3uZzVo0
   Design It!
   Building Evolutionary Architectures - Neal Ford, Rebecca Parsons, Patrick Kua
+  Agile Architecture - Scott Ambler
+  Architectural Katas - Ted Neward, Neal Ford
+  Ron Jeffries Blog - https://ronjeffries.com/ - It is much more updated than his twitter account.
 key takeaways:
   - you should do a bit of design at the start of the project and at the start of each sprint.
   - evolutionary design is the art of doing a bit of design at each iteration.
@@ -25,11 +28,16 @@ key takeaways:
   - C4: Context, Containers, Components, Code.
   - Take a look at software architecture checklist at c4model.com
   - UML não favorece conversations: why are some boxes red? what does that arrow mean? is that a java application?
+  - UML vs CASE tools
   - C4 favorece conversation: why mongoDB? what protocol the two java applications communicate? why SQL if we always use oracle?
   - note that expliciting the technologies aids the conversation.
   - use Architecture Decision Records: Title, Context, Decision, Status, Consequences.
+  - Base your architecture on requirements, travel light and prove your architecture with concrete experiments. - Scott Ambler
+  - use Risk Storming (in Simon Brown book)
+  - Design techniques: workshops, interviews, event storming, impact mapping, domain modelling, OOAD, CRC, DDD
+  - DDD, architecture reviest, ATAM, architecture dry runs, Risk-storming, concrete experiments, C4 model, ADRs, etc
 rate: 9
-attention: 8 (stopped at 40:24)
+attention: 10
 ################################################################################
 title: Build Abstractions Not Illusions
 author: Gregor Hohpe
