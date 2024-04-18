@@ -29,6 +29,31 @@ key takeaways:
 rate: 10
 attention: 9
 ################################################################################
+title: Modular Monoliths
+author: Simon Brown
+conference: GOTO 2018
+url: https://www.youtube.com/watch?v=5OjqD-ow8GE
+references:
+  https://simonbrown.je/
+  https://c4model.com/
+  Simon Brown • Software Architecture for Developers Vol. 2
+  George Fairbanks • Just Enough Software Architecture • https://amzn.to/3uZzVo0
+  Building Evolutionary Architectures - Neal Ford, Rebecca Parsons, Patrick Kua
+key takeaways:
+  - Components usually are conceptual, they don't need to exist. languages usually don't have component keyword
+  - model-code gap: stuff that are in the diagrams/model not necessarily have a place in the code.
+  - module, component, service, subsystem, layer aren't usually keywords in the languages.
+  - package by layer - package by feature - package by components.
+  - cargo cult programming: adapt patterns etc without a reasonable logic.
+  - the public keyword in java encourages big balls of mud
+  - the infrastructure of apps is usually the same thing, web stuff, then domain stuff, then data stuff.
+  - present fitness functions for the architecture to avoid complexity, coupling, etc
+  - check classical component based design
+  - always keep in mind the differences in diagram among horizontalclicing, verticcal slicing, package by component and ports and adapters.
+  - architecture-indifferent design - 
+rate: 10
+attention: 9
+################################################################################
 title: The Lost Art of Software Design
 author: Simon Brown
 conference: YOW! 2019
