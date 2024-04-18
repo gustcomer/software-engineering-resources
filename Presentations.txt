@@ -1,4 +1,34 @@
 ################################################################################
+title: Design Matters
+author: Rebecca Wirfs-Brock
+conference: Domain Driven Design Europe - 2017
+url: https://www.youtube.com/watch?v=NZ5mI6-tNUc
+references:
+  - A Pattern Language - Christopher Alexander - Urbanist
+  - The Nature of Order - Christopher Alexander - things that have life
+  - Billy Vaughn Koen - Nuclear Engineer - Heuristics
+  - Discussion of the Method - Billy Vaughn Koen
+  - Streamlined Object Modeling - Jill Nicola / Mark Mayfield, et al,
+  - Problem Frames - Michael Jackson
+  - Delight's Muse - Jenny Quillien
+  - Software Design Centers - Jim Coplien
+key takeaways:
+  - design is a cycle, think of an Ouroboros.
+  - Heuristic: anything that provides a plausible aid in the solution of a problem. Koen
+  - ways to structure a domain layer: transaction script, domain model pattern, table module (fowler), database scripts/stored procedures
+  - Best Fit profiles is an interesting table.
+  - examples of heuristics: for complex problems use powerful languages
+  - example of decision: where to put validations and constaint checking?
+  - Design heuristics is a powerful tool! but don't take them to the extremes.
+  - pick the best heuristic from what your personal sota (state of the art) at the time. - koen
+  - design patterns are packaged heuristics - with Context (when to use it)
+  - the RDD Role Stereotypes can provide good heuristics. Knowing, doing, deciding. Information Holder, Structurer, Service Provider, Coordinator, Controller, Interfacer.
+  - Jim Coplien takes things that have life and apply it to software design.
+  - Alexanders 15 properties of things which have life: Levels of scale, strong centers, boundaries, alternating repetition, positive space, good shape, local symmetries,
+  - deep interlock and ambiguity, contrast, gradients, roughness, echoes, the void, simplicity and inner calm, not-separateness.
+rate: 10
+attention: 9
+################################################################################
 title: The Lost Art of Software Design
 author: Simon Brown
 conference: YOW! 2019
