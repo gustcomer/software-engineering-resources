@@ -12,6 +12,16 @@ key takeaways:
   - if the code is messy, you clean it up. If someone is waiting for a feature, well that's just too bad.
   - if you face an ugly code, should you tidy first?
   - Cost(Software) ≈ Cost(Changes) Cost(Changes) ≈ Cost(Big Changes) Cost(Big Changes) ≈ Coupling
+  - Static Analysis of coupling make no sense because you have to know what changes you're making.
+  - Coupled(E1,E2,Δ) :: ΔE1 ⇒ ΔE2
+  - The coupling of two services can be as sutil as the bandwith of the switch connecting them.
+  - your tools have a part to play in whether your components are coupled.
+  - power law functions can be useful: plot histogram of how many functions are called x times...
+  - Cyclomatic complexity: number of linearly independent paths through a program's source code. Used to indicate the complexity of a program.
+  - Coupling follows a power law distribution. If you plot the histogram of how many functions are called x times and apply log scale, a straight line appears. How does this phenomenon occur? That's because formation of coupling is similar to how avalanches and tornadoes occur.
+  - What is the Single Responsibility Principle? It's just the stick you use to hit other people with! Well, speaking seriously, it's just an argument...
+  - More cohesion is better, right? Yes! And more coupling is bad, right? Yes! But isn't cohesion just another form of coupling? Well...
+  - Software design is cyclical, moving from Idea to Behavior implementation, like an Ouroboros. When code gets messy and adding new behaviors becomes hard, take a time to improve the code's Structure.
 ################################################################################
 title: Design Matters
 author: Rebecca Wirfs-Brock
