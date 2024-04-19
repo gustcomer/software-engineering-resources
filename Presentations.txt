@@ -1,17 +1,31 @@
 ################################################################################
+title: A Daily Practice of Empirical Software Design
+author: Kent Beck
+conference: DDD Europe 2023
+url: https://www.youtube.com/watch?v=yBEcq23OgB4
+references:
+  Structured Design - Edward Yourdon, Larry Constantine.
+key takeaways:
+  - software design exists to help geeks feel safe in the world.
+  - software design is an exercise in human relationships.
+  - the most fundamental relationship you got to get right is with yourself.
+  - if the code is messy, you clean it up. If someone is waiting for a feature, well that's just too bad.
+  - if you face an ugly code, should you tidy first?
+  - Cost(Software) ≈ Cost(Changes) Cost(Changes) ≈ Cost(Big Changes) Cost(Big Changes) ≈ Coupling
+################################################################################
 title: Design Matters
 author: Rebecca Wirfs-Brock
 conference: Domain Driven Design Europe - 2017
 url: https://www.youtube.com/watch?v=NZ5mI6-tNUc
 references:
-  - A Pattern Language - Christopher Alexander - Urbanist
-  - The Nature of Order - Christopher Alexander - things that have life
-  - Billy Vaughn Koen - Nuclear Engineer - Heuristics
-  - Discussion of the Method - Billy Vaughn Koen
-  - Streamlined Object Modeling - Jill Nicola / Mark Mayfield, et al,
-  - Problem Frames - Michael Jackson
-  - Delight's Muse - Jenny Quillien
-  - Software Design Centers - Jim Coplien
+  A Pattern Language - Christopher Alexander - Urbanist
+  The Nature of Order - Christopher Alexander - things that have life
+  Billy Vaughn Koen - Nuclear Engineer - Heuristics
+  Discussion of the Method - Billy Vaughn Koen
+  Streamlined Object Modeling - Jill Nicola / Mark Mayfield, et al,
+  Problem Frames - Michael Jackson
+  Delight's Muse - Jenny Quillien
+  Software Design Centers - Jim Coplien
 key takeaways:
   - design is a cycle, think of an Ouroboros.
   - Heuristic: anything that provides a plausible aid in the solution of a problem. Koen
