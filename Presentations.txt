@@ -93,6 +93,21 @@ key takeaways:
 rate: 10
 attention: 9
 ################################################################################
+title: Balancing Coupling in Software Design
+author: Vlad Khononov
+conference: DDD Europe 2023
+url: https://www.youtube.com/watch?v=KTy4rqgPOjg&t=1056s
+references:
+  Balancing Coupling in Software Design - Vlad Khononov
+  Composite/Structured Design - Glenford J. Myers
+  What Every Programmer Should Know About Object-Oriented Design - Meilir Page-Jones
+key takeaways:
+  - System design is inherently about boundaries (what's in, what's out, what spans, what moves between), and about tradeoffs. It reshapes what is outside, just as it shapes what is inside. - Ruth Malan
+  - There are many useful and revealing heuristics for defining the boundaries of a service. Size is one of the least useful. 
+  - Coupling defines the components' degrees of freedom - Michael Nygard
+  - Coupling in Structured Design vs Connascence
+  - Connascence is a software quality metric invented by Meilir Page-Jones to allow reasoning about the complexity caused by dependency relationships in object-oriented design much like coupling did for structured design.
+################################################################################
 title: The Lost Art of Software Design
 author: Simon Brown
 conference: YOW! 2019
