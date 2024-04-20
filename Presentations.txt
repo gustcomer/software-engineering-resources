@@ -21,7 +21,14 @@ key takeaways:
   - Coupling follows a power law distribution. If you plot the histogram of how many functions are called x times and apply log scale, a straight line appears. How does this phenomenon occur? That's because formation of coupling is similar to how avalanches and tornadoes occur.
   - What is the Single Responsibility Principle? It's just the stick you use to hit other people with! Well, speaking seriously, it's just an argument...
   - More cohesion is better, right? Yes! And more coupling is bad, right? Yes! But isn't cohesion just another form of coupling? Well...
-  - Software design is cyclical, moving from Idea to Behavior implementation, like an Ouroboros. When code gets messy and adding new behaviors becomes hard, take a time to improve the code's Structure.
+  - Software design is cyclical, moving from Idea to Behavior implementation, like an Ouroboros. When code gets messy and adding new behaviors becomes hard, take a time to improve the code's Structure make the change easy.
+  - For every hard change, make the change easy, then make the easy change.
+  - Separate changes in behavior from changes in structure. Separate tests from code. Make it run, then make it right. If you want to scale, be smart and divide your problems into parts.
+  - Professional don't try to solve hard problems using hard skills. They first try to divide into smaller problems that can be solved with ordinary levels of skill.
+  - Make it work than make it right! First make it work, then you clean code it.
+  - First get the relationship with yourself right. Then maintain relationship with other geeks. Then maintain the relationship with business sponsors, etc.
+rate: 10
+attention: 10
 ################################################################################
 title: Design Matters
 author: Rebecca Wirfs-Brock
